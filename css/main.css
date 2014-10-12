@@ -33,6 +33,7 @@ h1, h2, h3 {
 
 h1 {
 	font-size: 300%;
+	margin: 0;
 }
 
 h2 {
@@ -56,10 +57,10 @@ main {
 }
 
 header {
-	color: #FFFFFF;
 	padding: 1em;
 	background-color: #FA5A0F;
 	border-bottom: 5px solid #EA4A00;
+	color: #FFFFFF;
 }
 
 header p {
